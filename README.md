@@ -9,7 +9,7 @@ The design separates the control logic (FSM) from the datapath (registers, ALU, 
 - **Design Type:** Unsigned 3x3 Binary Multiplier  
 - **Architecture:** FSM-Controlled Datapath  
 - **Simulation Tool:** Active-HDL  
-- **Language:** System-Verilog  
+- **Language:** SystemVerilog  
 - **Workspace:** `3x3_Mult.aws` (Active-HDL project)
 
 ## 🗂️ Included Files

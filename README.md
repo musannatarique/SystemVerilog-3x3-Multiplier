@@ -1,4 +1,4 @@
-# SystemVerilog 3x3 Unsigned Multiplier (FSM + Datapath)
+# SystemVerilog 3x3 Unsigned Multiplier (FSM )
 
 This project implements a 3x3 unsigned binary multiplier using a Finite State Machine (FSM) and datapath architecture, developed in **SystemVerilog** and simulated using **Active-HDL**.
 

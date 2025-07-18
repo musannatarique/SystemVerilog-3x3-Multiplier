@@ -37,7 +37,7 @@ The `Flowchart.png` file provides a visual overview of the control flow and logi
 ## 🛠️ Tools Used
 
 - **Active-HDL** – Simulation and design verification  
-- **SystemVerilog** – Hardware description language
+- **Verilog** – Hardware description language
 
 ## 📜 License
 

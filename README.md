@@ -43,7 +43,4 @@ The `Flowchart.png` file provides a visual overview of the control flow and logi
 
 This project is licensed under the [MIT License](./LICENSE).
 
-## 👤 Author
-
-**Musanna Tarique**
 

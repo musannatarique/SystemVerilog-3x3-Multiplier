@@ -12,11 +12,6 @@ The design separates the control logic (FSM) from the datapath (registers, ALU, 
 - **Language:** SystemVerilog  
 - **Workspace:** `3x3_Mult.aws` (Active-HDL project)
 
-## 🗂️ Included Files
-
-- `3x3_Mult.aws` – Active-HDL workspace containing all modules  
-- `Flowchart.png` – Hand-drawn design flowchart illustrating the multiplier logic  
-
 ## 📐 Modules
 
 - `MULT_PKG.sv` – Parameter definitions and state configurations  
